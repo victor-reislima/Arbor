@@ -1,0 +1,12 @@
+.p-grid {
+    display: grid;
+    grid-template-columns: repeat(6,1fr);
+}
+
+.grid-item {
+    width: 200px;
+    height: 280px;
+    background-color: rgb(255, 215, 142);
+    margin: 5px;
+    padding: 5px;
+}
