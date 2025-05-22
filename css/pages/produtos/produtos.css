@@ -2,11 +2,14 @@
     display: grid;
     grid-template-columns: repeat(6,1fr);
 }
-
 .grid-item {
     width: 200px;
     height: 280px;
-    background-color: rgb(255, 215, 142);
+    background-color: rgba(255, 215, 142, 0.404);
     margin: 5px;
     padding: 5px;
+    border-radius: 5px;
 }
+
+
+
